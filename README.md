@@ -2,7 +2,7 @@
 
 🌍 Belgium&Italy based | Remote-friendly | International experience 
 
-I'm a BI Specialist who pivoted from pure HR roles to full-time data analtycs career, driven from interest and passion for data analysis & visualization. I currently work for a big engineering company based in Genova, Italy, as HR data analyst and I work as freelance BI specialist on different projects, all involving building end-to-end BI solutions 
+I'm a BI Specialist who pivoted from pure HR roles to full-time data analytics career, driven from interest and passion for data analysis & visualization. I currently work for an engineering services company based in Genova, Italy as HR data analyst and I also work as freelance BI specialist on different projects, all involving building end-to-end BI solutions 
 
 
 ## 🔍 What I'm good at
