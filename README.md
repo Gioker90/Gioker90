@@ -3,13 +3,13 @@
 🌍 Italy-based | Remote-friendly | International experience  
 
 
-## 🔍 What I'm ggod at
+## 🔍 What I'm good at
 - 📈 HR & operational analytics  
 - 🧠 Data modeling & KPI design  
 - 🗄️ SQL advanced analysis (CTEs, window & recursive queries)  
 - 📊 Power BI dashboards (DAX, RLS, governance, Power Query)  
 - 🐍 Python automation (pandas, matplotlib)
-- 🗣  Clear&effective Communication
+- 🗣  Clear & effective Communication
 
 ---
 
@@ -17,7 +17,7 @@
 
 🔹 **SQL Portfolio**  
 Advanced querying, data exploration, and complex transformations  
-👉 [(https://github.com/Gioker90/SQL.git)]
+👉 [[SQL](https://github.com/Gioker90/SQL.git)]
 
 🔹 **Power BI Portfolio**  
 End-to-end BI projects: modeling, DAX, visualization, and insights  
