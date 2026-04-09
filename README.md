@@ -15,14 +15,15 @@
 
 ## 📌 Portfolio Highlights
 
-👉 **[SQL](https://github.com/Gioker90/SQL.git)**  
+## 👉 **[SQL](https://github.com/Gioker90/SQL.git)**  
 
 Advanced querying, data exploration, CTEs, windows funciont, recursive queries  
  
 
-👉 **[Power BI](https://github.com/Gioker90/PowerBI.git)**
+## 👉 **[Power BI](https://github.com/Gioker90/PowerBI.git)**
 
 HR & Sales Dashboards: data modeelin, ETL, DAX, data visualization
+
 
 
 
