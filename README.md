@@ -1,6 +1,6 @@
 ## Giovanni Gallino - BI Specialist
 
-🌍 Italy-based | Remote-friendly | International experience  
+🌍 Belgium&Italy based | Remote-friendly | International experience  
 
 
 ## 🔍 What I'm good at
@@ -15,43 +15,17 @@
 
 ## 📌 Portfolio Highlights
 
-🔹 **SQL Portfolio**  
-Advanced querying, data exploration, and complex transformations  
-👉 [[SQL](https://github.com/Gioker90/SQL.git)]
+👉 **[SQL](https://github.com/Gioker90/SQL.git)**  
 
-🔹 **Power BI Portfolio**  
-End-to-end BI projects: modeling, DAX, visualization, and insights  
-👉 [https://github.com/Gioker90/PowerBI.git)]
----
+Advanced querying, data exploration, CTEs, windows funciont, recursive queries  
+ 
 
-## 📊 Analytics at a Glance
+👉 **[Power BI](https://github.com/Gioker90/PowerBI.git)**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gioker90&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gioker90&layout=compact&theme=default" height="150"/>
-</p>
+HR & Sales Dashboards: data modeelin, ETL, DAX, data visualization
 
----
 
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
-
----
-
-## 🌐 Languages
-- 🇮🇹 Italian — Native  
-- 🇬🇧 English — C1  
-- 🇪🇸 Spanish — B2  
-- 🇫🇷 French — A2 (ongoing)
-
----
 
 📫 **Let’s connect**  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/giovannigallinohr/) 
 - 📧 Open to collaborations, freelance, and data-driven projects
